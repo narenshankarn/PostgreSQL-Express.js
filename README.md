@@ -1,1 +1,1 @@
-A simple capital quiz app of countries
+Projects built after my learnings
